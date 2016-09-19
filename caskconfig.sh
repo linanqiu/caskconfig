@@ -1,60 +1,72 @@
-#!/bin/sh
-#
-# Apps
+brew cask install adium
+brew cask install adobe-reader
+brew cask install appcleaner
+brew cask install atom
+brew cask install backblaze
+brew cask install betterzip
+brew cask install caffeine
+brew cask install cleanmymac
+brew cask install disk-inventory-x
 brew cask install dropbox
-brew cask install utorrent
-brew cask install virtualbox
-brew cask install google-hangouts
-
-# Email
-brew cask install gpgtools
-brew cask install mailmate
-
-# Video
-brew cask install vlc
-brew cask install subtitles
-brew cask install handbrake
-
-# Audio
-brew cask install xld
-brew cask install spotify
-
-# Menubar Tools
+brew cask install eclipse-java
+brew cask install firefox
+brew cask install flash
+brew cask install free-ruler
 brew cask install gfxcardstatus
-
-# IM Clients
-brew cask install skype
-brew cask install wechat
-
-# Browsers
 brew cask install google-chrome
-brew cask install torbrowser
-
-# Dev Tools
-brew cask install iterm2
-brew cask install jewelrybox
-brew cask install postgres
-brew cask install sublime-text
-brew cask install eclipse ide
-brew cask install node
-brew cask install macvim
-brew cask install java
-brew cask install python python3
-brew cask install r
+brew cask install handbrake
 brew cask install heroku-toolbelt
-brew cask install mactex
+brew cask install hex-fiend
+brew cask install ifunbox
+brew cask install iterm2
+brew cask install java
+brew cask install java6
+brew cask install jdownloader
+brew cask install jewelrybox
+brew cask install kindle
 brew cask install latexian
 brew cask install latexit
-
-# System Utilities
 brew cask install launchrocket
+brew cask install macdown
+brew cask install mactex
+brew cask install macvim
+brew cask install markdown-service-tools
+brew cask install mongodb
+brew cask install mono-mdk
+brew cask install node
+brew cask install omnigraffle
 brew cask install onyx
-brew cask install the-unarchiver
-brew cask install spectacle
-brew cask install cleanmymac
+brew cask install osxfuse
+brew cask install pgadmin3
+brew cask install postgres
+brew cask install pycharm
+brew cask install qtspim
+brew cask install r
+brew cask install rstudio
+brew cask install scala-ide
+brew cask install serviio
+brew cask install skype
+brew cask install slack
 brew cask install smcfancontrol
-brew cask install bittorrent-sync
-
-# System Plugins
-brew cask install flash
+brew cask install spectacle
+brew cask install spotify
+brew cask install spyder
+brew cask install steam
+brew cask install torbrowser
+brew cask install vagrant
+brew cask install vassal
+brew cask install virtualbox
+brew cask install visual-studio-code
+brew cask install vlc
+brew cask install wechat
+brew cask install xld
+brew cask install xquartz
+brew cask install utorrent
+brew cask install google-hangouts
+brew cask install gpgtools
+brew cask install subtitles
+brew cask install sublime-text
+brew cask install eclipse ide
+brew cask install python python3
+brew cask install the-unarchiver
 brew cask install silverlight
